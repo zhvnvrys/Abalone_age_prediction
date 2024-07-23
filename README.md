@@ -12,4 +12,4 @@ Variable description
 - `Shucked weight`: weight of the meat (in grams)
 - `Viscera weight`: gut weight after bleeding (in grams)
 - `Shell weight`: after being dried (in grams)
-- - `Rings`: + 1.5 gives the age in years (the value to predict)
+- `Rings`: + 1.5 gives the age in years (the value to predict)
